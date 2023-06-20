@@ -1,1 +1,1 @@
-# NPM-UpdateString
+# NPM-GenerateString
