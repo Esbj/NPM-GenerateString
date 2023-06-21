@@ -1,0 +1,28 @@
+{
+  "name": "npm-generatestring",
+  "version": "1.0.0",
+  "description": "A school project to generate a random string and output it to the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esbj/NPM-GenerateString.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "dom"
+  ],
+  "author": "Alexander Esbjörnsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esbj/NPM-GenerateString/issues"
+  },
+  "homepage": "https://github.com/Esbj/NPM-GenerateString#readme",
+  "dependencies": {
+    "random-string-esb": "^1.0.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
